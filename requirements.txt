@@ -1,0 +1,5 @@
+Flask==3.0.2
+librosa==0.10.1
+resampy==0.4.2
+pip install numpy
+pip install pandas
